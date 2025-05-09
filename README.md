@@ -25,14 +25,12 @@ I'm Maynard, currently studying as a BSIT student at Aurora State College of Tec
   <div>
     <img src="https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/rust-%232496ED.svg?&style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   </div>
 
   <h2>Database and Cache</h2>
   <div>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
@@ -43,13 +41,11 @@ I'm Maynard, currently studying as a BSIT student at Aurora State College of Tec
     <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   </div>
 
   <h2>Monitoring and Logging</h2>
   <div>
     <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
-    <img src="https://img.shields.io/badge/prometheus%20-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
     <img src="https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow" alt="Grafana" />
   </div>
 
@@ -60,9 +56,8 @@ I'm Maynard, currently studying as a BSIT student at Aurora State College of Tec
 
   <h2>Frameworks</h2>
   <div>
-    <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    <img src="https://img.shields.io/badge/laravel%20-%2313988a.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+    <img src="https://img.shields.io/badge/codeigniter-000000.svg?&style=for-the-badge&logo=codeigniter&logoColor=white" alt="codeigniter" />
   </div>
 
   <h2>Let's Connect!</h2>
