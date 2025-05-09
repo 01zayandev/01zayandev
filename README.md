@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi I'm Maynard👋</h1>
 
-  <h2>Filipino WEB Developer</h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=I'm+a+Filipino+Junior+Web+Developer!" alt="Typing SVG" /></a>
 
   <div>
   <h2>About me</h2>
