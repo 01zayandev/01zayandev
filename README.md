@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi I'm Maynard👋</h1>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+;I'm+a+Filipino+Web+Developer;I+love+to+create+something+new;And+I+like+you+too!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hello+;I'm+a+Filipino+Junior+Web+Developer;I+love+to+create+something+new;And+I+like+you+too!" alt="Typing SVG" /></a>
   <div>
   <h2>About me</h2>
 
-I'm Maynard, currently studying as a BSIT student at Aurora State College of Technology. I love learning new technologies and using them to create something useful. I like to create my own websites or create personal portfolios when I'm not doing anything to expand my programming knowledge. I also like to learn other programming languages.
+I'm currently studying as a BSIT student at Aurora State College of Technology. I love learning new technologies and using them to create something useful. I like to create my own websites or create personal portfolios when I'm not doing anything to expand my programming knowledge. I also like to learn other programming languages.
 
   <div>
     <h1>💻 Tech Stack</h1>
