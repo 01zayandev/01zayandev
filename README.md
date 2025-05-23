@@ -14,6 +14,8 @@
 ![Laravel](https://img.shields.io/badge/laravel-%232c3e50.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%232c3e50.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%232c3e50.svg?style=for-the-badge&logo=react&logoColor=white)
+![JQuery](https://img.shields.io/badge/jquery-%232c3e50.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 
 
